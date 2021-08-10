@@ -16,7 +16,7 @@ The Improved Fuel Mod by ziroAU allows you to use more items as fuel, such as bo
 [[dependencies.improved_fuel]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.16.5,1.17]"
+    versionRange="[1.16.5]"
     ordering="NONE"
     side="BOTH"
 
