@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU General Public License v3.0"
+
+[[mods]]
+    modId="improved_fuel"
+    version="1.0.0"
+    displayName="Improved Fuel"
+    displayURL="https://fuel.ziroau.com/"
+    logoFile="logo.png"
+    authors="ziroAU"
+    description='''
+The Improved Fuel Mod by ziroAU allows you to use more items as fuel, such as bones or rotten flesh. View the full list on fuel.ziroau.com
+    '''
+
+[[dependencies.improved_fuel]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
