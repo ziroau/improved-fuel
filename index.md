@@ -20,22 +20,10 @@ You are allowed to use this mod in a modpack, as long as you provide the neccess
 Please feel free to suggest more items/any changes to burn rates :)
 
 ### Burn Rate
-| Item | Burn Rate (Ticks) |
-| ----------- | ----------- |
-| Plain Arrows | 800 |
-| Bones | 800 |
-| Bone Block | 6000 |
-| Wheat Seeds | 100 |
-| Wheat | 50 |
-| Gunpowder | 250 |
-| Cobweb | 250 |
-| Lilypad | 400 |
-| Cactus | 400 |
-| Dead bush | 300 |
-| Rotten flesh | 200 |
+View on Github since Jekyll doesn't like tables very much..
 
 ### Download
-##### 1.16.5-1.17.1
+##### 1.16.5
 - [Version 1.0]
 
 
