@@ -35,7 +35,7 @@ Please feel free to suggest more items/any changes to burn rates :)
 | Rotten flesh | 200 |
 
 ### Download
-##### 1.16.5-1.17.1
+##### 1.16.5
 - [Version 1.0]
 
 
