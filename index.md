@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# Improved Fuel Mod
+---
+The Improved Fuel mod for 1.16.5 and 1.17 is designed to enhance the fuel experience by putting more items into use!
+You are allowed to use this mod in a modpack, as long as you provide the neccessary credits.
 
-You can use the [editor on GitHub](https://github.com/ziroau/improved-fuel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### You can now burn:
+- Plain Arrows 
+- Bones
+- Bone Blocks
+- Wheat Seeds
+- Wheat
+- Gunpowder
+- Cobweb
+- Lilypads
+- Cactus
+- Dead bush
+- Rotten Flesh
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Please feel free to suggest more items/any changes to burn rates :)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Burn Rate
+| Item | Burn Rate (Ticks) |
+| ----------- | ----------- |
+| Plain Arrows | 800 |
+| Bones | 800 |
+| Bone Block | 6000 |
+| Wheat Seeds | 100 |
+| Wheat | 50 |
+| Gunpowder | 250 |
+| Cobweb | 250 |
+| Lilypad | 400 |
+| Cactus | 400 |
+| Dead bush | 300 |
+| Rotten flesh | 200 |
 
-```markdown
-Syntax highlighted code block
+### Download
+##### 1.16.5-1.17.1
+- [Version 1.0]
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Support
+Please create an [issue] on the Github page if you find any issues/bugs. I doubt there will be any.
+You can also view the source code there!
+https://github.com/ziroau/improved-fuel/
 
-**Bold** and _Italic_ and `Code` text
+If you would like to mod to be updated to a new version of Minecraft/Forge and it isn't immediately obvious I'm already working on it:
+Please ping me on Discord: `ziro#1234`
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ziroau/improved-fuel/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Version 1.0]: <>
+[Issue]: <https://github.com/ziroau/improved-fuel/issues>
