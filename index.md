@@ -1,6 +1,6 @@
 # Improved Fuel Mod
 ---
-The Improved Fuel mod for 1.16.5 and 1.17 is designed to enhance the fuel experience by putting more items into use!
+The Improved Fuel mod for 1.15.2 & 1.16.5 is designed to enhance the fuel experience by putting more items into use!
 You are allowed to use this mod in a modpack, as long as you provide the neccessary credits.
 
 ### You can now burn:
@@ -27,6 +27,10 @@ View on Github since Jekyll doesn't like tables very much..
 - [Version 1.0]
 
 
+##### 1.15.2
+- [Version 1.0.1]
+
+
 
 ### Support
 Please create an [issue] on the Github page if you find any issues/bugs. I doubt there will be any.
@@ -37,4 +41,5 @@ If you would like to mod to be updated to a new version of Minecraft/Forge and i
 Please ping me on Discord: `ziro#1234`
 
 [Version 1.0]: <https://github.com/ziroau/improved-fuel/releases/tag/1.0>
+[Version 1.0.1]: <https://github.com/ziroau/improved-fuel/releases/tag/1.0>
 [Issue]: <https://github.com/ziroau/improved-fuel/issues>
