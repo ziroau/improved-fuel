@@ -52,5 +52,5 @@ If you would like to mod to be updated to a new version of Minecraft/Forge and i
 Please ping me on Discord: `ziro#1234`
 
 [Version 1.0]: <https://github.com/ziroau/improved-fuel/releases/tag/1.0>
-[Version 1.0]: <https://github.com/ziroau/improved-fuel/releases/tag/1.0.1>
+[Version 1.0.1]: <https://github.com/ziroau/improved-fuel/releases/tag/1.0.1>
 [Issue]: <https://github.com/ziroau/improved-fuel/issues>
